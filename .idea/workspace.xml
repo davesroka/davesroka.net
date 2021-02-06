@@ -1,58 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7927dc9-46dd-498f-a7f2-bee1841cea6a" name="Default Changelist" comment="Resolve conflicts">
-      <change afterPath="$PROJECT_DIR$/.github/FUNDING.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/davesroka.net.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/assets/gatsby-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/assets/great.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/assets/great2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/assets/profile-pic.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/blog/awesome-images.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/blog/example.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/blog/hello-world/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/blog/hello-world/salty_egg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/blog/hi-folks/index.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/blog/my-second-post/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/bio.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/layout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/searchPosts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/seo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/html.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/blog.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/templates/blog-post.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/typography.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/GatsbyScene.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/admin/config.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/opensearch.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/robots.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-browser.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-browser.js" afterDir="false" />
+    <list default="true" id="d7927dc9-46dd-498f-a7f2-bee1841cea6a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-node.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-node.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/404.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/404.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/static/admin/config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +13,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1o2Xcl6XH8V0Y5XlUhkdxDx4Tf3" />
   <component name="ProjectViewState">
@@ -80,6 +40,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
     <configuration name="start" type="js.build_tools.npm" nameIsGenerated="true">
@@ -100,7 +61,7 @@
       <updated>1612485742341</updated>
       <workItem from="1612485747459" duration="330000" />
       <workItem from="1612486443405" duration="2111000" />
-      <workItem from="1612567789583" duration="345000" />
+      <workItem from="1612567789583" duration="2689000" />
     </task>
     <servers />
   </component>
@@ -117,14 +78,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Resolve conflicts" />
-    <option name="LAST_COMMIT_MESSAGE" value="Resolve conflicts" />
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
   </component>
 </project>
