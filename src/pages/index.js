@@ -1,14 +1,35 @@
-import React from 'react';
-import Link from 'gatsby-link';
+import React from "react"
+// import { Link } from "gatsby"
 
-const IndexPage = () => (
-  <div>
-    <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
-    <Link to="/page-2/">Go to page 2</Link>
-    Blah
-  </div>
-);
+import Layout from "../components/layout"
+import SEO from "../components/seo"
+// import Button from "../components/button"
 
-export default IndexPage;
+class IndexPage extends React.Component {
+  render() {
+    const siteTitle = "Dave Sroka"
+
+    return (
+      <Layout location={this.props.location} title={siteTitle}>
+        <SEO
+          title="Home"
+          keywords={[`blog`, `gatsby`, `javascript`, `react`]}
+        />
+        {/*<img style={{ margin: 0 }} src="./GatsbyScene.svg" alt="Gatsby Scene" />*/}
+        {/*<h1>*/}
+        {/*  <span role="img" aria-label="wave emoji">*/}
+        {/*    👋*/}
+        {/*  </span>*/}
+        {/*</h1>*/}
+        <p>
+          Some day I'll actually build this site.
+        </p>
+        {/*<Link to="/blog/">*/}
+        {/*  <Button marginTop="35px">Go to Blog</Button>*/}
+        {/*</Link>*/}
+      </Layout>
+    )
+  }
+}
+
+export default IndexPage

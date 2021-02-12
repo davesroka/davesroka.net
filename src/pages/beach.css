@@ -1,0 +1,40 @@
+.bg {
+    min-height: 100%;
+    min-width: 1024px;
+
+    /* Set up proportionate scaling */
+    width: 100%;
+    height: auto;
+
+    /* Set up positioning */
+    position: fixed;
+    top: 0;
+    left: 0;
+    color: white;
+}
+
+.background {
+    min-height: 100%;
+    min-width: 1024px;
+
+    /* Set up proportionate scaling */
+    width: 100%;
+    height: auto;
+
+    /* Set up positioning */
+    position: fixed;
+    top: 0;
+    left: 0;
+    color: white;
+    background: url(https://source.unsplash.com/collection/8845114) no-repeat center center fixed;
+    background-size: cover;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+
+}
+
+.layout {
+
+
+}
